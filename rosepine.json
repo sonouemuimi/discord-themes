@@ -1,7 +1,7 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn v3.3 with native iOS code text fallback colors.",
-  "version": "1.5",
+  "description": "Rose Pine Dawn v3.4 with Android native inline-code contrast.",
+  "version": "1.6",
   "authors": [
     {
       "name": "Fubukicat",
@@ -487,6 +487,7 @@
     "PLUM_25": "#32372c",
     "PRIMARY_100": "#575279",
     "PRIMARY_200": "#575279",
+    "PRIMARY_230": "#575279",
     "PRIMARY_300": "#faf4ed",
     "PRIMARY_330": "#575279",
     "PRIMARY_360": "#907aa9",
@@ -564,9 +565,7 @@
     "YELLOW_630": "#ea9d34",
     "YELLOW_660": "#ea9d34",
     "YELLOW_700": "#ea9d34",
-    "WHITE": "#575279",
-    "WHITE_100": "#575279",
-    "WHITE_500": "#575279",
+    "WHITE_500": "#faf4ed",
     "WHITE_630": "#797593",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#e8dfea",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#e8dfea",
