@@ -1,6 +1,6 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn optimized for newer Discord UI with softer buttons and improved contrast.",
+  "description": "Rose Pine Dawn mobile Discord theme with improved redesign UI contrast.",
   "version": "1.0",
   "authors": [
     {
@@ -18,15 +18,15 @@
       "#fffaf3"
     ],
     "BACKGROUND_ACCENT": [
-      "#c4b5d9",
-      "#c4b5d9"
+      "#e8def0",
+      "#e8def0"
     ],
     "BACKGROUND_FLOATING": [
       "#fffaf3",
       "#fffaf3"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "rgba(0, 114, 15, 0.1)"
+      "rgba(144, 122, 169, 0.12)"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#dfdad9",
@@ -103,8 +103,8 @@
       "#faf4ed"
     ],
     "BORDER_FAINT": [
-      "#dfdad9",
-      "#dfdad9"
+      "#e6ddd5",
+      "#e6ddd5"
     ],
     "BORDER_SUBTLE": [
       "#dfdad9",
@@ -119,20 +119,20 @@
       "#fffaf3"
     ],
     "CARD_SECONDARY_BG": [
-      "#f8f1e8",
-      "#f8f1e8"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "CHANNELS_DEFAULT": [
       "#797593",
       "#797593"
     ],
     "CHANNEL_ICON": [
-      "#9893a5",
-      "#9893a5"
+      "#797593",
+      "#797593"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#f7f0e8",
-      "#f7f0e8"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "EMBED_BACKGROUND": [
       "#f2e9e1",
@@ -151,8 +151,8 @@
       "#575279"
     ],
     "INTERACTIVE_HOVER": [
-      "#907aa9",
-      "#907aa9"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "INTERACTIVE_MUTED": [
       "#9893a5",
@@ -163,7 +163,7 @@
       "#797593"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(51, 114, 0, 0.1)"
+      "rgba(144, 122, 169, 0.12)"
     ],
     "MENTION_FOREGROUND": [
       "#907aa9",
@@ -186,12 +186,12 @@
       "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#ebe2da",
+      "#ebe2da"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#eee6dd",
-      "#eee6dd"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#dfdad9",
@@ -201,7 +201,7 @@
       "#e2b95a"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#a7ff6c"
+      "#6d8f89"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#575279",
@@ -250,7 +250,7 @@
       "#575279"
     ],
     "TEXT_SECONDARY": [
-      "#e6fdda"
+      "#797593"
     ],
     "BG_MOD_FAINT": [
       "#ffffff12"
@@ -286,7 +286,8 @@
     "INPUT_BACKGROUND": [
       "#f2e9e1",
       "#f2e9e1"
-    ]
+    ],
+    "ROLE_DEFAULT": "#797593"
   },
   "rawColors": {
     "BLUE_260": "#73a85a",
