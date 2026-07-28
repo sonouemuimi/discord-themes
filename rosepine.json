@@ -1,6 +1,6 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Migrated Rose Pine Dawn colors to the newer Discord theme structure.",
+  "description": "Rose Pine Dawn optimized for newer Discord UI with softer buttons and improved contrast.",
   "version": "1.0",
   "authors": [
     {
@@ -18,8 +18,8 @@
       "#fffaf3"
     ],
     "BACKGROUND_ACCENT": [
-      "#286983",
-      "#286983"
+      "#c4b5d9",
+      "#c4b5d9"
     ],
     "BACKGROUND_FLOATING": [
       "#fffaf3",
@@ -119,8 +119,8 @@
       "#fffaf3"
     ],
     "CARD_SECONDARY_BG": [
-      "#fffaf3",
-      "#fffaf3"
+      "#f8f1e8",
+      "#f8f1e8"
     ],
     "CHANNELS_DEFAULT": [
       "#797593",
@@ -131,8 +131,8 @@
       "#9893a5"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#f7f0e8",
+      "#f7f0e8"
     ],
     "EMBED_BACKGROUND": [
       "#f2e9e1",
@@ -151,16 +151,16 @@
       "#575279"
     ],
     "INTERACTIVE_HOVER": [
-      "#dfdad9",
-      "#dfdad9"
+      "#907aa9",
+      "#907aa9"
     ],
     "INTERACTIVE_MUTED": [
       "#9893a5",
       "#9893a5"
     ],
     "INTERACTIVE_NORMAL": [
-      "#907aa9",
-      "#907aa9"
+      "#797593",
+      "#797593"
     ],
     "MENTION_BACKGROUND": [
       "rgba(51, 114, 0, 0.1)"
@@ -190,12 +190,12 @@
       "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#eee6dd",
+      "#eee6dd"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#f4ede8",
-      "#f4ede8"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#e2b95a"
@@ -282,6 +282,10 @@
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
+    ],
+    "INPUT_BACKGROUND": [
+      "#f2e9e1",
+      "#f2e9e1"
     ]
   },
   "rawColors": {
