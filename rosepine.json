@@ -1,6 +1,6 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn optimized for newer Discord UI with softer buttons and improved contrast.",
+  "description": "Rose Pine Dawn v2 for newer Discord UI with soft card controls and improved contrast.",
   "version": "1.1",
   "authors": [
     {
@@ -18,8 +18,8 @@
       "#fffaf3"
     ],
     "BACKGROUND_ACCENT": [
-      "#e7dfeb",
-      "#e7dfeb"
+      "#e8dfea",
+      "#e8dfea"
     ],
     "BACKGROUND_FLOATING": [
       "#fffaf3",
@@ -52,16 +52,16 @@
       "#f2e9e1"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#e8dfea",
+      "#e8dfea"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#ebe3dc",
-      "#ebe3dc"
+      "#eee6e1",
+      "#eee6e1"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#eee6dd",
-      "#eee6dd"
+      "#e8dfea",
+      "#e8dfea"
     ],
     "BACKGROUND_PRIMARY": [
       "#faf4ed",
@@ -127,8 +127,8 @@
       "#797593"
     ],
     "CHANNEL_ICON": [
-      "#9893a5",
-      "#9893a5"
+      "#907aa9",
+      "#907aa9"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#fffaf3",
@@ -151,8 +151,8 @@
       "#575279"
     ],
     "INTERACTIVE_HOVER": [
-      "#d8cbe6",
-      "#d8cbe6"
+      "#6e6488",
+      "#6e6488"
     ],
     "INTERACTIVE_MUTED": [
       "#9893a5",
@@ -186,8 +186,8 @@
       "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#faf4ed",
-      "#faf4ed"
+      "#eee6e1",
+      "#eee6e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#f2e9e1",
@@ -197,11 +197,45 @@
       "#dfdad9",
       "#dfdad9"
     ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#ddd0e2",
+      "#ddd0e2"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#575279",
+      "#575279"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#575279",
+      "#575279"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#fffaf3",
+      "#fffaf3"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_PRESSED_BACKGROUND": [
+      "#eee6e1",
+      "#eee6e1"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": [
+      "#575279",
+      "#575279"
+    ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#e2b95a"
+      "#f3dfdd",
+      "#f3dfdd"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#a7ff6c"
+      "#797593",
+      "#797593"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#575279",
@@ -219,10 +253,10 @@
       "#b57022"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#6a795b"
+      "#f3dfdd"
     ],
     "STATUS_DANGER_TEXT": [
-      "#1f241b"
+      "#8f5264"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
       "#2d3227"
@@ -250,10 +284,11 @@
       "#575279"
     ],
     "TEXT_SECONDARY": [
-      "#e6fdda"
+      "#797593",
+      "#797593"
     ],
     "BG_MOD_FAINT": [
-      "#ffffff12"
+      "#5752790d"
     ],
     "KEYBOARD": [
       "#f2e9e1",
@@ -272,13 +307,13 @@
       "#70fa1a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#c0f4b8"
+      "#c8c0cc"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#bff4b8"
+      "#c8c0cc"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
@@ -286,6 +321,30 @@
     "INPUT_BACKGROUND": [
       "#fffaf3",
       "#fffaf3"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#9893a5",
+      "#9893a5"
+    ],
+    "SEARCH_BAR_BACKGROUND": [
+      "#fffaf3",
+      "#fffaf3"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#fffaf3",
+      "#fffaf3"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#fffaf3",
+      "#fffaf3"
+    ],
+    "ICON_PRIMARY": [
+      "#575279",
+      "#575279"
+    ],
+    "ICON_SECONDARY": [
+      "#797593",
+      "#797593"
     ]
   },
   "rawColors": {
