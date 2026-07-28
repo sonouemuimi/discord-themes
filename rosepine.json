@@ -4,7 +4,7 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "MatchaGreen",
+      "name": "Fubukicat",
       "id": "183251375193456643"
     }
   ],
@@ -22,7 +22,8 @@
       "#286983"
     ],
     "BACKGROUND_FLOATING": [
-      "#80a16a"
+      "#fffaf3",
+      "#fffaf3"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "rgba(0, 114, 15, 0.1)"
@@ -79,7 +80,8 @@
       "#f2e9e1"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "#21261d"
+      "#fffaf3",
+      "#fffaf3"
     ],
     "BG_BASE_PRIMARY": [
       "#fffaf3",
@@ -97,16 +99,20 @@
       "#fffaf3"
     ],
     "HOME_BACKGROUND": [
-      "#1f3220"
+      "#faf4ed",
+      "#faf4ed"
     ],
     "BORDER_FAINT": [
-      "#ffffff12"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "BORDER_SUBTLE": [
-      "#ffffff1c"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "BORDER_STRONG": [
-      "#FFFFFF26"
+      "#9893a5",
+      "#9893a5"
     ],
     "CARD_PRIMARY_BG": [
       "#fffaf3",
@@ -125,7 +131,8 @@
       "#9893a5"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#1a2617"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "EMBED_BACKGROUND": [
       "#f2e9e1",
@@ -163,19 +170,24 @@
       "#907aa9"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
-      "#21281f"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
-      "#293326"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#2c3a24"
+      "#fffaf3",
+      "#fffaf3"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#2c2f2b"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#242e23"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#f2e9e1",
@@ -244,7 +256,8 @@
       "#ffffff12"
     ],
     "KEYBOARD": [
-      "#2d3328"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
       "#6fb54333"
