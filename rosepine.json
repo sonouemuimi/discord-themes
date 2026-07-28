@@ -1,7 +1,7 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn v2 for newer Discord UI with soft card controls and improved contrast.",
-  "version": "1.1",
+  "description": "Rose Pine Dawn v3 with current Discord button mappings and high-contrast mentions.",
+  "version": "1.2",
   "authors": [
     {
       "name": "Fubukicat",
@@ -98,6 +98,10 @@
       "#fffaf3",
       "#fffaf3"
     ],
+    "BG_BRAND": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
     "HOME_BACKGROUND": [
       "#faf4ed",
       "#faf4ed"
@@ -122,6 +126,58 @@
       "#f8f1e8",
       "#f8f1e8"
     ],
+    "BUTTON_FILLED_BRAND_BACKGROUND": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
+      "#ddd0e2",
+      "#ddd0e2"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": [
+      "#e2d7e6",
+      "#e2d7e6"
+    ],
+    "BUTTON_FILLED_BRAND_BORDER": [
+      "#c8b9d0",
+      "#c8b9d0"
+    ],
+    "BUTTON_FILLED_BRAND_TEXT": [
+      "#575279",
+      "#575279"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#f2e9e1",
+      "#f2e9e1"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#ddd0e2",
+      "#ddd0e2"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
+    "BUTTON_SECONDARY_TEXT": [
+      "#575279",
+      "#575279"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND": [
+      "transparent",
+      "transparent"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND_ACTIVE": [
+      "#e8dfea",
+      "#e8dfea"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND_HOVER": [
+      "#eee6e1",
+      "#eee6e1"
+    ],
+    "BUTTON_TRANSPARENT_TEXT": [
+      "#575279",
+      "#575279"
+    ],
     "CHANNELS_DEFAULT": [
       "#797593",
       "#797593"
@@ -134,6 +190,14 @@
       "#fffaf3",
       "#fffaf3"
     ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#6e6488",
+      "#6e6488"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#6e6488",
+      "#6e6488"
+    ],
     "EMBED_BACKGROUND": [
       "#f2e9e1",
       "#f2e9e1"
@@ -143,8 +207,8 @@
       "#575279"
     ],
     "HEADER_SECONDARY": [
-      "#797593",
-      "#797593"
+      "#6e6488",
+      "#6e6488"
     ],
     "INTERACTIVE_ACTIVE": [
       "#575279",
@@ -163,11 +227,12 @@
       "#797593"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(51, 114, 0, 0.1)"
+      "#e8dfea",
+      "#e8dfea"
     ],
     "MENTION_FOREGROUND": [
-      "#907aa9",
-      "#907aa9"
+      "#575279",
+      "#575279"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
       "#f2e9e1",
@@ -272,8 +337,8 @@
       "#56949f"
     ],
     "TEXT_MUTED": [
-      "#9893a5",
-      "#9893a5"
+      "#6e6488",
+      "#6e6488"
     ],
     "TEXT_NORMAL": [
       "#575279",
@@ -284,8 +349,24 @@
       "#575279"
     ],
     "TEXT_SECONDARY": [
-      "#797593",
-      "#797593"
+      "#6e6488",
+      "#6e6488"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#6e6488",
+      "#6e6488"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#6e6488",
+      "#6e6488"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#6e6488",
+      "#6e6488"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#575279",
+      "#575279"
     ],
     "BG_MOD_FAINT": [
       "#5752790d"
@@ -383,37 +464,38 @@
     "BRAND_730": "#606f5e",
     "PLUM_1": "#575279",
     "PLUM_3": "#575279",
-    "PLUM_4": "#28698350",
-    "PLUM_6": "#907aa9",
-    "PLUM_9": "#7ca97e",
-    "PLUM_10": "#9893a5",
-    "PLUM_11": "#53634e",
-    "PLUM_13": "#90d179",
-    "PLUM_15": "#797593",
-    "PLUM_16": "#f2e9e1",
-    "PLUM_17": "#faf4ed",
-    "PLUM_18": "#f2e9e1",
-    "PLUM_19": "#faf4ed",
+    "PLUM_4": "#907aa9",
+    "PLUM_6": "#575279",
+    "PLUM_9": "#797593",
+    "PLUM_10": "#797593",
+    "PLUM_11": "#797593",
+    "PLUM_13": "#797593",
+    "PLUM_14": "#9893a5",
+    "PLUM_15": "#9893a5",
+    "PLUM_16": "#dfdad9",
+    "PLUM_17": "#f2e9e1",
+    "PLUM_18": "#dfdad9",
+    "PLUM_19": "#dfdad9",
     "PLUM_20": "#faf4ed",
-    "PLUM_21": "#32372c",
+    "PLUM_21": "#faf4ed",
     "PLUM_22": "#f2e9e1",
     "PLUM_24": "#fffaf3",
     "PLUM_25": "#32372c",
     "PRIMARY_100": "#575279",
-    "PRIMARY_200": "#ddfdca",
-    "PRIMARY_300": "#8aa283",
-    "PRIMARY_330": "#c3ffad",
-    "PRIMARY_360": "#797593",
-    "PRIMARY_400": "#d7827e",
-    "PRIMARY_460": "#575279",
-    "PRIMARY_500": "#907aa9",
-    "PRIMARY_530": "#809e6d",
-    "PRIMARY_600": "#f2e9e1",
-    "PRIMARY_630": "#f2e9e1",
-    "PRIMARY_645": "#28698350",
+    "PRIMARY_200": "#575279",
+    "PRIMARY_300": "#faf4ed",
+    "PRIMARY_330": "#575279",
+    "PRIMARY_360": "#907aa9",
+    "PRIMARY_400": "#9893a5",
+    "PRIMARY_460": "#797593",
+    "PRIMARY_500": "#575279",
+    "PRIMARY_530": "#797593",
+    "PRIMARY_600": "#dfdad9",
+    "PRIMARY_630": "#dfdad9",
+    "PRIMARY_645": "#907aa950",
     "PRIMARY_660": "#f2e9e1",
     "PRIMARY_700": "#f2e9e1",
-    "PRIMARY_730": "#a5d283",
+    "PRIMARY_730": "#f2e9e1",
     "PRIMARY_800": "#faf4ed",
     "GREEN_260": "#56949f",
     "GREEN_300": "#56949f",
@@ -480,6 +562,10 @@
     "YELLOW_700": "#ea9d34",
     "WHITE_500": "#faf4ed",
     "WHITE_630": "#797593",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#e8dfea",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#e8dfea",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#575279",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#575279",
     "ROLE_DEFAULT": "#6f855c"
   },
   "fonts": {
