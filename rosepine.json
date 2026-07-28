@@ -1,7 +1,7 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn mobile Discord theme with improved redesign UI contrast.",
-  "version": "1.0",
+  "description": "Rose Pine Dawn optimized for newer Discord UI with softer buttons and improved contrast.",
+  "version": "1.1",
   "authors": [
     {
       "name": "Fubukicat",
@@ -18,15 +18,15 @@
       "#fffaf3"
     ],
     "BACKGROUND_ACCENT": [
-      "#e8def0",
-      "#e8def0"
+      "#e7dfeb",
+      "#e7dfeb"
     ],
     "BACKGROUND_FLOATING": [
       "#fffaf3",
       "#fffaf3"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "rgba(144, 122, 169, 0.12)"
+      "rgba(0, 114, 15, 0.1)"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#dfdad9",
@@ -52,16 +52,16 @@
       "#f2e9e1"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#f4ede8",
-      "#f4ede8"
+      "#f2e9e1",
+      "#f2e9e1"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#dfdad9",
-      "#dfdad9"
+      "#ebe3dc",
+      "#ebe3dc"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#f4ede8",
-      "#f4ede8"
+      "#eee6dd",
+      "#eee6dd"
     ],
     "BACKGROUND_PRIMARY": [
       "#faf4ed",
@@ -103,8 +103,8 @@
       "#faf4ed"
     ],
     "BORDER_FAINT": [
-      "#e6ddd5",
-      "#e6ddd5"
+      "#dfdad9",
+      "#dfdad9"
     ],
     "BORDER_SUBTLE": [
       "#dfdad9",
@@ -119,20 +119,20 @@
       "#fffaf3"
     ],
     "CARD_SECONDARY_BG": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#f8f1e8",
+      "#f8f1e8"
     ],
     "CHANNELS_DEFAULT": [
       "#797593",
       "#797593"
     ],
     "CHANNEL_ICON": [
-      "#797593",
-      "#797593"
+      "#9893a5",
+      "#9893a5"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#fffaf3",
+      "#fffaf3"
     ],
     "EMBED_BACKGROUND": [
       "#f2e9e1",
@@ -143,16 +143,16 @@
       "#575279"
     ],
     "HEADER_SECONDARY": [
-      "#575279",
-      "#575279"
+      "#797593",
+      "#797593"
     ],
     "INTERACTIVE_ACTIVE": [
       "#575279",
       "#575279"
     ],
     "INTERACTIVE_HOVER": [
-      "#dfdad9",
-      "#dfdad9"
+      "#d8cbe6",
+      "#d8cbe6"
     ],
     "INTERACTIVE_MUTED": [
       "#9893a5",
@@ -163,7 +163,7 @@
       "#797593"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(144, 122, 169, 0.12)"
+      "rgba(51, 114, 0, 0.1)"
     ],
     "MENTION_FOREGROUND": [
       "#907aa9",
@@ -186,8 +186,8 @@
       "#f2e9e1"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#ebe2da",
-      "#ebe2da"
+      "#faf4ed",
+      "#faf4ed"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#f2e9e1",
@@ -201,15 +201,15 @@
       "#e2b95a"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#6d8f89"
+      "#a7ff6c"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#575279",
       "#575279"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
+      "#fffaf3",
+      "#fffaf3"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#797593",
@@ -250,7 +250,7 @@
       "#575279"
     ],
     "TEXT_SECONDARY": [
-      "#797593"
+      "#e6fdda"
     ],
     "BG_MOD_FAINT": [
       "#ffffff12"
@@ -284,10 +284,9 @@
       "transparent"
     ],
     "INPUT_BACKGROUND": [
-      "#f2e9e1",
-      "#f2e9e1"
-    ],
-    "ROLE_DEFAULT": "#797593"
+      "#fffaf3",
+      "#fffaf3"
+    ]
   },
   "rawColors": {
     "BLUE_260": "#73a85a",
