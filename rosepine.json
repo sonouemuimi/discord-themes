@@ -1,7 +1,7 @@
 {
   "name": "Rose Pine Dawn",
-  "description": "Rose Pine Dawn v3.2 with current Discord mappings and explicit code text contrast.",
-  "version": "1.4",
+  "description": "Rose Pine Dawn v3.3 with native iOS code text fallback colors.",
+  "version": "1.5",
   "authors": [
     {
       "name": "Fubukicat",
@@ -564,7 +564,9 @@
     "YELLOW_630": "#ea9d34",
     "YELLOW_660": "#ea9d34",
     "YELLOW_700": "#ea9d34",
-    "WHITE_500": "#faf4ed",
+    "WHITE": "#575279",
+    "WHITE_100": "#575279",
+    "WHITE_500": "#575279",
     "WHITE_630": "#797593",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#e8dfea",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#e8dfea",
