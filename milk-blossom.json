@@ -1,7 +1,7 @@
 {
   "name": "Milk Blossom",
-  "description": "A soft milky blush and sage theme with mobile text, icon, and border contrast fixes.",
-  "version": "1.1",
+  "description": "A soft milky blush and sage theme with complete dark and light semantic color slots.",
+  "version": "1.2",
   "authors": [
     {
       "name": "Fubukicat",
@@ -10,333 +10,443 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "CHAT_BACKGROUND": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BACKGROUND_ACCENT": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "BG_BRAND": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "BACKGROUND_FLOATING": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(228, 185, 185, 0.08)",
       "rgba(228, 185, 185, 0.08)"
     ],
     "BACKGROUND_NESTED_FLOATING": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(200, 180, 180, 0.18)",
       "rgba(200, 180, 180, 0.18)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(200, 180, 180, 0.30)",
       "rgba(200, 180, 180, 0.30)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BACKGROUND_PRIMARY": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BACKGROUND_SECONDARY": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BACKGROUND_SECONDARY_ALT": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BACKGROUND_TERTIARY": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "BACKGROUND_BASE_LOWEST": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BG_BASE_PRIMARY": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BG_BACKDROP": [
+      "rgba(90, 80, 85, 0.30)",
       "rgba(90, 80, 85, 0.30)"
     ],
     "BG_BASE_SECONDARY": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BG_BASE_TERTIARY": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "HOME_BACKGROUND": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "BORDER_FAINT": [
+      "rgba(200, 180, 180, 0.18)",
       "rgba(200, 180, 180, 0.18)"
     ],
     "BORDER_SUBTLE": [
+      "rgba(200, 180, 180, 0.18)",
       "rgba(200, 180, 180, 0.18)"
     ],
     "BORDER_STRONG": [
+      "rgba(200, 180, 180, 0.30)",
       "rgba(200, 180, 180, 0.30)"
     ],
     "BUTTON_FILLED_BRAND_BACKGROUND": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BUTTON_FILLED_BRAND_BORDER": [
+      "rgba(200, 180, 180, 0.30)",
       "rgba(200, 180, 180, 0.30)"
     ],
     "BUTTON_FILLED_BRAND_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "BUTTON_SECONDARY_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BUTTON_SECONDARY_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "BUTTON_TRANSPARENT_BACKGROUND": [
+      "transparent",
       "transparent"
     ],
     "BUTTON_TRANSPARENT_BACKGROUND_ACTIVE": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "BUTTON_TRANSPARENT_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "BUTTON_TRANSPARENT_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "CARD_PRIMARY_BG": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "CARD_SECONDARY_BG": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "CHANNELS_DEFAULT": [
+      "#8C8488",
       "#8C8488"
     ],
     "CHANNEL_ICON": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "CONTROL_BRAND_FOREGROUND": [
+      "#8C8488",
       "#8C8488"
     ],
     "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#8C8488",
       "#8C8488"
     ],
     "EMBED_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "HEADER_PRIMARY": [
+      "#5A5055",
       "#5A5055"
     ],
     "HEADER_SECONDARY": [
+      "#8C8488",
       "#8C8488"
     ],
     "INTERACTIVE_ACTIVE": [
+      "#5A5055",
       "#5A5055"
     ],
     "INTERACTIVE_HOVER": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "INTERACTIVE_MUTED": [
+      "#BAB2B5",
       "#BAB2B5"
     ],
     "INTERACTIVE_NORMAL": [
+      "#8C8488",
       "#8C8488"
     ],
     "MENTION_BACKGROUND": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "MENTION_FOREGROUND": [
+      "#5A5055",
       "#5A5055"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "rgba(200, 180, 180, 0.30)",
       "rgba(200, 180, 180, 0.30)"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#FFF9F5",
       "#FFF9F5"
     ],
     "REDESIGN_BUTTON_TERTIARY_PRESSED_BACKGROUND": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#E0A0A0",
       "#E0A0A0"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#8C8488",
       "#8C8488"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#5A5055",
       "#5A5055"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "STATUS_DANGER": [
+      "#E0A0A0",
       "#E0A0A0"
     ],
     "STATUS_DANGER_BACKGROUND": [
+      "#E0A0A0",
       "#E0A0A0"
     ],
     "STATUS_DANGER_TEXT": [
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
+      "rgba(228, 185, 185, 0.15)",
       "rgba(228, 185, 185, 0.15)"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "POLLS_VICTOR_FILL": [
+      "rgba(168, 198, 159, 0.50)",
       "rgba(168, 198, 159, 0.50)"
     ],
     "TEXT_LINK": [
+      "#A8C69F",
       "#A8C69F"
     ],
     "TEXT_MUTED": [
+      "#BAB2B5",
       "#BAB2B5"
     ],
     "TEXT_NORMAL": [
+      "#5A5055",
       "#5A5055"
     ],
     "TEXT_CODE": [
+      "#5A5055",
       "#5A5055"
     ],
     "TEXT_PRIMARY": [
+      "#5A5055",
       "#5A5055"
     ],
     "TEXT_SECONDARY": [
+      "#8C8488",
       "#8C8488"
     ],
     "TEXT_LOW_CONTRAST": [
+      "#8C8488",
       "#8C8488"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#8C8488",
       "#8C8488"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
+      "#8C8488",
       "#8C8488"
     ],
     "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#5A5055",
       "#5A5055"
     ],
     "BG_MOD_FAINT": [
+      "rgba(200, 180, 180, 0.18)",
       "rgba(200, 180, 180, 0.18)"
     ],
     "KEYBOARD": [
+      "#F2D9D9",
       "#F2D9D9"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
+      "rgba(168, 198, 159, 0.20)",
       "rgba(168, 198, 159, 0.20)"
     ],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "rgba(168, 198, 159, 0.30)",
       "rgba(168, 198, 159, 0.30)"
     ],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": [
+      "rgba(242, 217, 160, 0.20)",
       "rgba(242, 217, 160, 0.20)"
     ],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": [
+      "rgba(242, 217, 160, 0.30)",
       "rgba(242, 217, 160, 0.30)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
+      "#E4B9B9",
       "#E4B9B9"
     ],
     "SCROLLBAR_THIN_TRACK": [
+      "transparent",
       "transparent"
     ],
     "INPUT_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "INPUT_PLACEHOLDER_TEXT": [
+      "#8C8488",
       "#8C8488"
     ],
     "SEARCH_BAR_BACKGROUND": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BG_SURFACE_RAISED": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "BG_SURFACE_OVERLAY": [
+      "#FFFCFA",
       "#FFFCFA"
     ],
     "ICON_PRIMARY": [
+      "#8C8488",
       "#8C8488"
     ],
     "ICON_SECONDARY": [
+      "#BAB2B5",
       "#BAB2B5"
     ]
   },
