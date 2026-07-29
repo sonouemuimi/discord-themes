@@ -1,0 +1,405 @@
+{
+  "name": "Milk Blossom",
+  "description": "A soft milky blush and sage theme inspired by 奶乎乎粉绿极简风.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Fubukicat",
+      "id": "183251375193456643"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#E4B9B9"
+    ],
+    "CHAT_BACKGROUND": [
+      "#FFF9F5"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#E4B9B9"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#FFFCFA"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(228, 185, 185, 0.08)"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFFCFA"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FFF9F5"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FFFCFA"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(200, 180, 180, 0.18)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(200, 180, 180, 0.30)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FFF9F5"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FFFCFA"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FFF9F5"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#F2D9D9"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#FFF9F5"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#FFF9F5"
+    ],
+    "BG_BACKDROP": [
+      "rgba(90, 80, 85, 0.30)"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#FFFCFA"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#F2D9D9"
+    ],
+    "HOME_BACKGROUND": [
+      "#FFF9F5"
+    ],
+    "BORDER_FAINT": [
+      "rgba(200, 180, 180, 0.18)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(200, 180, 180, 0.18)"
+    ],
+    "BORDER_STRONG": [
+      "rgba(200, 180, 180, 0.30)"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#FFFCFA"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#F2D9D9"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8C8488"
+    ],
+    "CHANNEL_ICON": [
+      "#E4B9B9"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "EMBED_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "HEADER_PRIMARY": [
+      "#5A5055"
+    ],
+    "HEADER_SECONDARY": [
+      "#8C8488"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#5A5055"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E4B9B9"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#BAB2B5"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#8C8488"
+    ],
+    "MENTION_BACKGROUND": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "MENTION_FOREGROUND": [
+      "#5A5055"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#F2D9D9"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "rgba(200, 180, 180, 0.30)"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#E0A0A0"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#8C8488"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#5A5055"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#F2D9D9"
+    ],
+    "STATUS_DANGER": [
+      "#E0A0A0"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#E0A0A0"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#F2D9D9"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "rgba(168, 198, 159, 0.50)"
+    ],
+    "TEXT_LINK": [
+      "#A8C69F"
+    ],
+    "TEXT_MUTED": [
+      "#BAB2B5"
+    ],
+    "TEXT_NORMAL": [
+      "#5A5055"
+    ],
+    "TEXT_PRIMARY": [
+      "#5A5055"
+    ],
+    "TEXT_SECONDARY": [
+      "#8C8488"
+    ],
+    "BG_MOD_FAINT": [
+      "rgba(200, 180, 180, 0.18)"
+    ],
+    "KEYBOARD": [
+      "#F2D9D9"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "rgba(168, 198, 159, 0.20)"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "rgba(168, 198, 159, 0.30)"
+    ],
+    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": [
+      "rgba(242, 217, 160, 0.20)"
+    ],
+    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": [
+      "rgba(242, 217, 160, 0.30)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#E4B9B9"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#E4B9B9"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ]
+  },
+  "rawColors": {
+    "BLUE_260": "#E4B9B9",
+    "BLUE_300": "#E4B9B9",
+    "BLUE_330": "#E4B9B9",
+    "BLUE_345": "#E4B9B9",
+    "BLUE_360": "#E4B9B9",
+    "BLUE_400": "#E4B9B9",
+    "BLUE_430": "#E4B9B9",
+    "BLUE_460": "#E4B9B9",
+    "BLUE_500": "#E4B9B9",
+    "BLUE_530": "#E4B9B9",
+    "BLUE_560": "#E4B9B9",
+    "BLUE_600": "#E4B9B9",
+    "BLUE_630": "#E4B9B9",
+    "BLUE_660": "#E4B9B9",
+    "BLUE_700": "#E4B9B9",
+    "BLACK_500": "rgba(90, 80, 85, 0.30)",
+    "BRAND_200": "#E4B9B9",
+    "BRAND_260": "#E4B9B9",
+    "BRAND_300": "#E4B9B9",
+    "BRAND_330": "#E4B9B9",
+    "BRAND_345": "#E4B9B9",
+    "BRAND_360": "#E4B9B9",
+    "BRAND_400": "#E4B9B9",
+    "BRAND_430": "#E4B9B9",
+    "BRAND_460": "#E4B9B9",
+    "BRAND_500": "#E4B9B9",
+    "BRAND_530": "#E4B9B9",
+    "BRAND_560": "#E4B9B9",
+    "BRAND_600": "#E4B9B9",
+    "BRAND_630": "#E4B9B9",
+    "BRAND_660": "#E4B9B9",
+    "BRAND_700": "#E4B9B9",
+    "BRAND_730": "#E4B9B9",
+    "PLUM_1": "#FFFCFA",
+    "PLUM_3": "#A8C69F",
+    "PLUM_4": "#FFF9F5",
+    "PLUM_6": "#FFFCFA",
+    "PLUM_9": "#E4B9B9",
+    "PLUM_10": "#8C8488",
+    "PLUM_11": "#5A5055",
+    "PLUM_13": "#E4B9B9",
+    "PLUM_15": "#8C8488",
+    "PLUM_16": "#F2D9D9",
+    "PLUM_17": "#F2D9D9",
+    "PLUM_18": "#F2D9D9",
+    "PLUM_19": "#F2D9D9",
+    "PLUM_20": "#F2D9D9",
+    "PLUM_21": "#F2D9D9",
+    "PLUM_22": "#F2D9D9",
+    "PLUM_24": "#F2D9D9",
+    "PLUM_25": "#F2D9D9",
+    "PRIMARY_100": "#8C8488",
+    "PRIMARY_200": "#5A5055",
+    "PRIMARY_300": "#8C8488",
+    "PRIMARY_330": "#5A5055",
+    "PRIMARY_360": "#8C8488",
+    "PRIMARY_400": "#8C8488",
+    "PRIMARY_460": "rgba(200, 180, 180, 0.30)",
+    "PRIMARY_500": "#8C8488",
+    "PRIMARY_530": "#8C8488",
+    "PRIMARY_600": "#FFFCFA",
+    "PRIMARY_630": "#FFFCFA",
+    "PRIMARY_645": "#FFFCFA",
+    "PRIMARY_660": "#FFF9F5",
+    "PRIMARY_700": "#5A5055",
+    "PRIMARY_730": "#E4B9B9",
+    "PRIMARY_800": "#F2D9D9",
+    "GREEN_260": "#A8C69F",
+    "GREEN_300": "#A8C69F",
+    "GREEN_330": "#A8C69F",
+    "GREEN_345": "#A8C69F",
+    "GREEN_360": "#A8C69F",
+    "GREEN_400": "#A8C69F",
+    "GREEN_430": "#A8C69F",
+    "GREEN_460": "#A8C69F",
+    "GREEN_500": "#A8C69F",
+    "GREEN_530": "#A8C69F",
+    "GREEN_560": "#A8C69F",
+    "GREEN_600": "#A8C69F",
+    "GREEN_630": "#A8C69F",
+    "GREEN_660": "#A8C69F",
+    "GREEN_700": "#A8C69F",
+    "GUILD_BOOSTING_PINK": "#E4B9B9",
+    "GUILD_BOOSTING_PURPLE": "#E4B9B9",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#E4B9B9",
+    "RED_260": "#E0A0A0",
+    "RED_300": "#E0A0A0",
+    "RED_330": "#E0A0A0",
+    "RED_345": "#E0A0A0",
+    "RED_360": "#E0A0A0",
+    "RED_400": "#E0A0A0",
+    "RED_430": "#E0A0A0",
+    "RED_460": "#E0A0A0",
+    "RED_500": "#E0A0A0",
+    "RED_530": "#E0A0A0",
+    "RED_560": "#E0A0A0",
+    "RED_600": "#E0A0A0",
+    "RED_630": "#E0A0A0",
+    "RED_660": "#E0A0A0",
+    "RED_700": "#E0A0A0",
+    "ORANGE_260": "#F2D9A0",
+    "ORANGE_300": "#F2D9A0",
+    "ORANGE_330": "#F2D9A0",
+    "ORANGE_345": "#F2D9A0",
+    "ORANGE_360": "#F2D9A0",
+    "ORANGE_400": "#F2D9A0",
+    "ORANGE_430": "#F2D9A0",
+    "ORANGE_460": "#F2D9A0",
+    "ORANGE_500": "#F2D9A0",
+    "ORANGE_530": "#F2D9A0",
+    "ORANGE_560": "#F2D9A0",
+    "ORANGE_600": "#F2D9A0",
+    "ORANGE_630": "#F2D9A0",
+    "ORANGE_660": "#F2D9A0",
+    "ORANGE_700": "#F2D9A0",
+    "YELLOW_260": "#F2D9A0",
+    "YELLOW_300": "#F2D9A0",
+    "YELLOW_330": "#F2D9A0",
+    "YELLOW_345": "#F2D9A0",
+    "YELLOW_360": "#F2D9A0",
+    "YELLOW_400": "#F2D9A0",
+    "YELLOW_430": "#F2D9A0",
+    "YELLOW_460": "#F2D9A0",
+    "YELLOW_500": "#F2D9A0",
+    "YELLOW_530": "#F2D9A0",
+    "YELLOW_560": "#F2D9A0",
+    "YELLOW_600": "#F2D9A0",
+    "YELLOW_630": "#F2D9A0",
+    "YELLOW_660": "#F2D9A0",
+    "YELLOW_700": "#F2D9A0",
+    "WHITE_500": "#5A5055",
+    "WHITE_630": "#8C8488",
+    "ROLE_DEFAULT": "#8C8488"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#E4B9B9",
+    "icons": {
+      "ic_new_pins": "#E4B9B9",
+      "StatusStreaming": "#E4B9B9",
+      "StatusMobileOnline": "#A8C69F",
+      "StatusIdle": "#F2D9A0",
+      "StatusDND": "#E0A0A0",
+      "StatusOffline": "#BAB2B5",
+      "StatusOnline": "#A8C69F"
+    }
+  },
+  "spec": 2
+}
