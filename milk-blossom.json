@@ -1,7 +1,7 @@
 {
   "name": "Milk Blossom",
-  "description": "A soft blush-pink and milky sage theme with readable mobile text, icons, badges, and tags.",
-  "version": "2.2",
+  "description": "A soft blush-pink and milky sage theme with high-contrast mobile text and icons.",
+  "version": "2.3",
   "authors": [
     {
       "name": "Fubukicat",
@@ -80,14 +80,6 @@
     "BACKGROUND_TERTIARY": [
       "#F2D9D9",
       "#F2D9D9"
-    ],
-    "BADGE_BRAND_BG": [
-      "#A8C69F",
-      "#A8C69F"
-    ],
-    "BADGE_BRAND_TEXT": [
-      "#5A5055",
-      "#5A5055"
     ],
     "BACKGROUND_BASE_LOWEST": [
       "#F2D9D9",
@@ -212,10 +204,6 @@
     "EMBED_BACKGROUND": [
       "#FFF9F5",
       "#FFF9F5"
-    ],
-    "FORUM_POST_TAG_BACKGROUND": [
-      "#E4B9B9",
-      "#E4B9B9"
     ],
     "HEADER_PRIMARY": [
       "#5A5055",
@@ -595,10 +583,8 @@
     "YELLOW_630": "#F2D9A0",
     "YELLOW_660": "#F2D9A0",
     "YELLOW_700": "#F2D9A0",
-    "WHITE": "#5A5055",
-    "WHITE_100": "#5A5055",
-    "WHITE_500": "#5A5055",
-    "WHITE_630": "#5A5055",
+    "WHITE_500": "#F2D9D9",
+    "WHITE_630": "#8C8488",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#E4B9B9",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#E4B9B9",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#5A5055",
