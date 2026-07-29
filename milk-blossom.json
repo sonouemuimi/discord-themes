@@ -1,7 +1,7 @@
 {
   "name": "Milk Blossom",
-  "description": "A soft milky blush and sage theme inspired by 奶乎乎粉绿极简风.",
-  "version": "1.0",
+  "description": "A soft milky blush and sage theme with mobile text, icon, and border contrast fixes.",
+  "version": "1.1",
   "authors": [
     {
       "name": "Fubukicat",
@@ -16,6 +16,9 @@
       "#FFF9F5"
     ],
     "BACKGROUND_ACCENT": [
+      "#E4B9B9"
+    ],
+    "BG_BRAND": [
       "#E4B9B9"
     ],
     "BACKGROUND_FLOATING": [
@@ -90,6 +93,45 @@
     "BORDER_STRONG": [
       "rgba(200, 180, 180, 0.30)"
     ],
+    "BUTTON_FILLED_BRAND_BACKGROUND": [
+      "#E4B9B9"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
+      "#F2D9D9"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BUTTON_FILLED_BRAND_BORDER": [
+      "rgba(200, 180, 180, 0.30)"
+    ],
+    "BUTTON_FILLED_BRAND_TEXT": [
+      "#5A5055"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#F2D9D9"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BUTTON_SECONDARY_TEXT": [
+      "#5A5055"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND": [
+      "transparent"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND_ACTIVE": [
+      "#F2D9D9"
+    ],
+    "BUTTON_TRANSPARENT_BACKGROUND_HOVER": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "BUTTON_TRANSPARENT_TEXT": [
+      "#5A5055"
+    ],
     "CARD_PRIMARY_BG": [
       "#FFFCFA"
     ],
@@ -104,6 +146,12 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#FFFCFA"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#8C8488"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#8C8488"
     ],
     "EMBED_BACKGROUND": [
       "#FFFCFA"
@@ -153,6 +201,30 @@
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "rgba(200, 180, 180, 0.30)"
     ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#E4B9B9"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#F2D9D9"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#5A5055"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#F2D9D9"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#5A5055"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#FFF9F5"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_PRESSED_BACKGROUND": [
+      "rgba(228, 185, 185, 0.15)"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": [
+      "#5A5055"
+    ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#E0A0A0"
     ],
@@ -195,11 +267,26 @@
     "TEXT_NORMAL": [
       "#5A5055"
     ],
+    "TEXT_CODE": [
+      "#5A5055"
+    ],
     "TEXT_PRIMARY": [
       "#5A5055"
     ],
     "TEXT_SECONDARY": [
       "#8C8488"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#8C8488"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#8C8488"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#8C8488"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#5A5055"
     ],
     "BG_MOD_FAINT": [
       "rgba(200, 180, 180, 0.18)"
@@ -230,6 +317,27 @@
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
+    ],
+    "INPUT_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#8C8488"
+    ],
+    "SEARCH_BAR_BACKGROUND": [
+      "#FFFCFA"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#FFFCFA"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#FFFCFA"
+    ],
+    "ICON_PRIMARY": [
+      "#8C8488"
+    ],
+    "ICON_SECONDARY": [
+      "#BAB2B5"
     ]
   },
   "rawColors": {
@@ -274,6 +382,7 @@
     "PLUM_10": "#8C8488",
     "PLUM_11": "#5A5055",
     "PLUM_13": "#E4B9B9",
+    "PLUM_14": "#BAB2B5",
     "PLUM_15": "#8C8488",
     "PLUM_16": "#F2D9D9",
     "PLUM_17": "#F2D9D9",
@@ -286,6 +395,7 @@
     "PLUM_25": "#F2D9D9",
     "PRIMARY_100": "#8C8488",
     "PRIMARY_200": "#5A5055",
+    "PRIMARY_230": "#5A5055",
     "PRIMARY_300": "#8C8488",
     "PRIMARY_330": "#5A5055",
     "PRIMARY_360": "#8C8488",
@@ -363,8 +473,14 @@
     "YELLOW_630": "#F2D9A0",
     "YELLOW_660": "#F2D9A0",
     "YELLOW_700": "#F2D9A0",
+    "WHITE": "#5A5055",
+    "WHITE_100": "#5A5055",
     "WHITE_500": "#5A5055",
     "WHITE_630": "#8C8488",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#F2D9D9",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#F2D9D9",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#5A5055",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#5A5055",
     "ROLE_DEFAULT": "#8C8488"
   },
   "fonts": {
